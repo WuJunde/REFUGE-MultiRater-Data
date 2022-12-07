@@ -6,7 +6,7 @@ Download link of REFUGE Challenge dataset: https://aistudio.baidu.com/aistudio/d
 
 Download link of muli-rater REFUGE dataset: https://drive.google.com/file/d/1Nldclw4xdm1aAO-2l6xKDF4L3DoKlZlf/view?usp=sharing
 
-##Cite
+## Cite
 ~~~
 @article{orlando2020refuge,
   title={Refuge challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs},
