@@ -8,14 +8,12 @@ Download link of muli-rater REFUGE dataset: https://drive.google.com/file/d/1Nld
 
 ## Cite
 ~~~
-@article{orlando2020refuge,
-  title={Refuge challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs},
-  author={Orlando, Jos{\'e} Ignacio and Fu, Huazhu and Breda, Jo{\~a}o Barbosa and van Keer, Karel and Bathula, Deepti R and Diaz-Pinto, Andr{\'e}s and Fang, Ruogu and Heng, Pheng-Ann and Kim, Jeyoung and Lee, JoonHo and others},
-  journal={Medical image analysis},
-  volume={59},
-  pages={101570},
-  year={2020},
-  publisher={Elsevier}
+@article{fang2022refuge2,
+  title={REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment},
+  author={Fang, Huihui and Li, Fei and Wu, Junde and Fu, Huazhu and Sun, Xu and Cao, Xingxing and Son, Jaemin and Yu, Shuang and Zhang, Menglu and Yuan, Chenglang and Bian, Cheng and others},
+  journal={arXiv preprint arXiv:2202.08994},
+  year={2022}
 }
+
 ~~~
 
