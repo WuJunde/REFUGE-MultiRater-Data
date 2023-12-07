@@ -1,8 +1,6 @@
-## REFUGE Multi-rater Dataset
+## REFUGE Multi-rater Dataset (Including REFUGE dataset)
 Supplied multi-rater annotations of [REFUGE Challenge Dataset](https://refuge.grand-challenge.org/). The challenge dataset releases majority vote (with some modifications) results of seven independent
 annotations. We release the scource seven annotations here. 
-
-Download link of REFUGE Challenge dataset: https://aistudio.baidu.com/aistudio/datasetdetail/177198
 
 Download link of muli-rater REFUGE dataset: https://drive.google.com/file/d/1Nldclw4xdm1aAO-2l6xKDF4L3DoKlZlf/view?usp=sharing
 
